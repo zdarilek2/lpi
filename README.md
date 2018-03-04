@@ -12,6 +12,7 @@ Sady úloh
   a [praktická časť (SAT solver)](cvicenia/cv01)
 * Sada úloh 2: [teoretická časť (výroková sémantika a dokončenie syntaxe)](ulohy/su02.pdf),
   praktickú časť zverejníme čoskoro
+  a [praktická časť (formula)](cvicenia/cv02) 
 
 Pravidlá pre sady úloh
 ----------------------
